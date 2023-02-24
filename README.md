@@ -5,7 +5,7 @@
 
 jheimys.github.io/Electronic_battery/
 
-Eletronic Batery é um instrumento musical de interface digital, onde a cada botão vamos reproduzir o som de um instrumento.
+Eletronic Batery é um instrumento musical de interface digital, a cada botão vamos reproduzir o som de um instrumento.
 
 O HTML e CSS foi desenvolvido pelos instrutores da Alura, com isto focamos apenas no desenvolvimento do JavaScript do zero, utilizando recursos atuais da linguagem, como constantes, variáveis, querySelector, template string, eventos de teclado e de mouse e muito mais.
 
