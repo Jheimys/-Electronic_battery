@@ -1,5 +1,8 @@
 # Sobre o projeto
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jheimys/Electronic_battery/blob/master/LICENCE) 
+
+
 jheimys.github.io/Electronic_battery/
 
 Eletronic Batery é um instrumento musical de interface digital, onde a cada botão vamos reproduzir o som de um instrumento.
